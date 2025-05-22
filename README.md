@@ -1,4 +1,5 @@
 Developed by : ADITHYA SIVAKUMAR
+
 Register No : 212224040013
 #  Mean and variance of a discrete  distribution
 
